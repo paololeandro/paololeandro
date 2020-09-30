@@ -1,4 +1,4 @@
-### Hi there, i'm [Paolo!](https://paololeandro.github.io) 👋
+### Hi there, i'm [Paolo!](https://www.linkedin.com/in/paololrs/) 👋
 
 <!--
 **paololeandro/paololeandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
