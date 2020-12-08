@@ -4,7 +4,7 @@
 **paololeandro/paololeandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- I'm aspiring 🔭️ Front-End Web Developer currently learning 🌱 **ReactJs** and **NodeJs**.
+- I'm aspiring 🔭️ Front-End Web Developer currently learning 🌱 **ReactJs**.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
 **Languages and Tools:**  
